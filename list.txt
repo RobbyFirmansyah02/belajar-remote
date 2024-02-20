@@ -1,0 +1,4 @@
+nama-nama barang
+1. Kursi
+2. Meja
+3. Pintu
