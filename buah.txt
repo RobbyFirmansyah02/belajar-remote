@@ -2,3 +2,5 @@
 2. Jeruk
 3. Anggur
 4. Semangka
+5. Rambutan
+6. Kiwi
